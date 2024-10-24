@@ -1,0 +1,1 @@
+Esse é um projeto de estudo compartilhado, tem o intúito de desenvolver e disponibilizar um e-commerce de maneira incremental, documentando decisões e desafios relacionados ao desenvolvimento e infraestrutura à medida em que o projeto cresce.
